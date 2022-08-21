@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilince" alt="anilince" /></a> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, JAVASCRIPT**
+- 🔭 I’m currently working on **HTML, CSS, JavaScript, React, Angular**
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **JavaScript, React, Angular**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, JAVASCRIPT**
+- 👯 I’m looking to collaborate on **HTML, CSS, JavaScript, React, Angular**
 
-- 🤝 I’m looking for help with **JAVASCRIPT**
+- 🤝 I’m looking for help with **JavaScript, React, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anilince](https://github.com/anilince)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular**
 
 - 📫 How to reach me **anilince92@gmail.com**
 
